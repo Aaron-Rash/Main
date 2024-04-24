@@ -1,3 +1,0 @@
-The use of a switch statement to handle different search criteria based on the column index is a straightforward approach which allows for easy expansion in the future
-Consider adding try-catch blocks around the database operations to handle potiental exceptions.
-Overall a good use of a class and it is well consturcted 
